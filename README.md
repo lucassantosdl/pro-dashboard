@@ -15,4 +15,4 @@
 
 Deploy: https://pro-dashboard-one.vercel.app/
 
-
+Feito com ♥ by [Lucas Santos](https://github.com/lucassantosdl)
